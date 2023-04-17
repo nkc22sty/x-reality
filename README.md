@@ -9,7 +9,7 @@ git push -u origin main
 
 ### Hi there 👋 I'm Ankit Chaudhary,
 
-A Data engineer passionate about Data Science :bar_chart:. I like automating, building scalable pipelines, and improving and optimizing systems. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+A Data engineer passionate about Data Science :bar_chart:. I like automating, building scalable pipelines, and improving and optimizing systems.
 
 - 🌱 I’m currently pursuing **Masters in Advanced Computer Science at Bangor University, UK**
 - ⚡ **Fun fact:** I **strongly** I am a firm believer in the *Chaos theory*, which states that even in unpredictable environments with seemingly random oddities and irregularities, there exists a predictable and sensible pattern that is not initially visible.
