@@ -20,7 +20,7 @@ This repository contains the source code for a Web-based AR application that dis
 - Immersive 3D environment for data visualisation on Ar Marker
 - Built using A-Frame, D3.js,html and JavaScript
 - Modular application architecture for compatibility across any devices and platforms
-- Intuitive user interface with seamless navigation and interaction
+
 
 ## Requirements
 
@@ -30,11 +30,8 @@ This repository contains the source code for a Web-based AR application that dis
 ## Installation
 
 1. Clone the repository to your local machine: git clone https://nkc22sty.github.io/x-reality/
-2. Navigate to the project directory: cd Immersive-Data-Vis-VR
-3. Install the required dependencies: npm install
-4. Start the development server: npm start
-
-5. Open your web browser and navigate to `http://localhost:5501`.
+2. Navigate to the project directory: cd x-reality
+3. Open your web browser and navigate to `http://localhost:5501`.
 
 ## License
 
